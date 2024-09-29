@@ -1,5 +1,5 @@
 
-Chess Board - HTML & CSS
+#Chess Board - HTML & CSS#
 
 This project represents a chessboard built using HTML5 and CSS. The chessboard is displayed in a table format where each square is either light or dark, simulating a traditional chessboard. 
 The chess pieces are represented by Unicode symbols.
